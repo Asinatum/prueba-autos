@@ -1,3 +1,6 @@
+print("prueba de repos en github")
+
+
 def calcular_precio(marca,puertas,color):
     marcas = {'ford':10000, 'chevrolet':15000, 'fiat':20000}
     puertas = {2:5000, 4:10000, 5:15000}
